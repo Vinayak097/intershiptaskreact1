@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: grey;
+    text-align: center;
+}
+.footer-sub{
+    padding: 2rem;
+
+}

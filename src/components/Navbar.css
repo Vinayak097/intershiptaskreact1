@@ -1,0 +1,23 @@
+.nav{
+    background-color: grey;
+    padding: 1rem;
+}
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    display:inline ;
+    margin-right: 1rem;
+}
+.nav ul li a{
+    text-decoration: none;
+    color: black
+}
+.nav ul li a:hover{
+    color: blue;
+}
+.nav{
+    display:flex ;
+    justify-content: center;
+}
+
